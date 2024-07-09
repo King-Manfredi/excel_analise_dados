@@ -63,15 +63,15 @@ Como analista de dados, devo limpar, organizar e analisar o banco de dados de um
 
 ## :bulb: Conclusiom
 
-** 1-** As vendas foram relativamente consistentes ao longo dos anos, com alguns meses se destacando como os melhores em termos de receita.
-** 2-** Gabriel é o vendedor mais bem-sucedido, o que sugere que ele pode ter boas práticas ou uma carteira de clientes sólida.
-** 3-** A região Sudeste lidera em termos de vendas, o que pode indicar uma maior demanda ou uma estratégia de vendas mais eficaz nessa região.
-** 4-** O curso de VBA é o produto mais popular, sugerindo que há uma forte demanda por habilidades de automação e programação dentro das ferramentas do Microsoft Office.
+- ** 1-** As vendas foram relativamente consistentes ao longo dos anos, com alguns meses se destacando como os melhores em termos de receita.
+- ** 2-** Gabriel é o vendedor mais bem-sucedido, o que sugere que ele pode ter boas práticas ou uma carteira de clientes sólida.
+- ** 3-** A região Sudeste lidera em termos de vendas, o que pode indicar uma maior demanda ou uma estratégia de vendas mais eficaz nessa região.
+- ** 4-** O curso de VBA é o produto mais popular, sugerindo que há uma forte demanda por habilidades de automação e programação dentro das ferramentas do Microsoft Office.
 
 ## :battery: Stacks Employed
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![GOOGLE COLAB](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
+![EXCEL](https://img.shields.io/badge/:badgeContent?logo=excel&logoColor=white&logoSize=auto&color=green)
 
 ## :notebook_with_decorative_cover:   Notebook of my project in Google Colab
 <a target="_blank" href="https://drive.google.com/file/d/14GzOxsZRwHyOEC8t3I1fnBbfO4icAr9x/view?usp=sharing"> 
