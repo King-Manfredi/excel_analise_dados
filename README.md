@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> Excel <br> Analisando dados com Excel</h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Logo Excel" width="80">
+  <h1> Excel | Analisando dados com Excel
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Logo Excel" width="40"></h1>
 </div>
 
 <img src="/Tela.jpg">
