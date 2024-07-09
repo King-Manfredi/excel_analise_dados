@@ -2,8 +2,8 @@
   <h1> Excel <br> Analisando dados com Excel</h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Logo Excel" width="80">
 </div>
-
-  <img scr="https://github.com/King-Manfredi/excel_analise_dados/blob/main/Tela.jpg" width="640" height="480" alt="Tela">
+![Dashboard](https://github.com/King-Manfredi/excel_analise_dados/blob/main/Tela.jpg)
+  ###<img scr="https://github.com/King-Manfredi/excel_analise_dados/blob/main/Tela.jpg" width="640" height="480" alt="Tela">
 
 ##  Desafio de Análise de Dados
 
