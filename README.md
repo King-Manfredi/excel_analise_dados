@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Excel <br> Analisando dados com Excel</h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Logo Python" width="220">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Logo Python" width="80">
 </div>
 
 ##  Desafio de Análise de Dados
@@ -63,10 +63,10 @@ Como analista de dados, devo limpar, organizar e analisar o banco de dados de um
 
 ## :bulb: Conclusiom
 
-### :white_check_mark:  As vendas foram relativamente consistentes ao longo dos anos, com alguns meses se destacando como os melhores em termos de receita.
-### :white_check_mark:  Gabriel é o vendedor mais bem-sucedido, o que sugere que ele pode ter boas práticas ou uma carteira de clientes sólida.
-### :white_check_mark:  A região Sudeste lidera em termos de vendas, o que pode indicar uma maior demanda ou uma estratégia de vendas mais eficaz nessa região.
-### :white_check_mark:  O curso de VBA é o produto mais popular, sugerindo que há uma forte demanda por habilidades de automação e programação dentro das ferramentas do Microsoft Office.
+** 1-** As vendas foram relativamente consistentes ao longo dos anos, com alguns meses se destacando como os melhores em termos de receita.
+** 2-** Gabriel é o vendedor mais bem-sucedido, o que sugere que ele pode ter boas práticas ou uma carteira de clientes sólida.
+** 3-** A região Sudeste lidera em termos de vendas, o que pode indicar uma maior demanda ou uma estratégia de vendas mais eficaz nessa região.
+** 4-** O curso de VBA é o produto mais popular, sugerindo que há uma forte demanda por habilidades de automação e programação dentro das ferramentas do Microsoft Office.
 
 ## :battery: Stacks Employed
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
