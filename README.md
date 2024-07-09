@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Excel <br> Analisando dados com Excel</h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Logo Python" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Logo Excel" width="80">
 </div>
 
 ##  Desafio de Análise de Dados
@@ -61,7 +61,7 @@ Como analista de dados, devo limpar, organizar e analisar o banco de dados de um
 ### :white_check_mark:  Step 3: Fazer as analises solicitadas pelo departamento;
 ### :white_check_mark:  Step 4: Adicionar insights.
 
-## :bulb: Conclusiom
+## :bulb: Conclusão
 
 - ** 1-** As vendas foram relativamente consistentes ao longo dos anos, com alguns meses se destacando como os melhores em termos de receita.
 - ** 2-** Gabriel é o vendedor mais bem-sucedido, o que sugere que ele pode ter boas práticas ou uma carteira de clientes sólida.
@@ -69,11 +69,5 @@ Como analista de dados, devo limpar, organizar e analisar o banco de dados de um
 - ** 4-** O curso de VBA é o produto mais popular, sugerindo que há uma forte demanda por habilidades de automação e programação dentro das ferramentas do Microsoft Office.
 
 ## :battery: Stacks Employed
-![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![EXCEL](https://img.shields.io/badge/:badgeContent?logo=excel&logoColor=white&logoSize=auto&color=green)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## :notebook_with_decorative_cover:   Notebook of my project in Google Colab
-<a target="_blank" href="https://drive.google.com/file/d/14GzOxsZRwHyOEC8t3I1fnBbfO4icAr9x/view?usp=sharing"> 
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
