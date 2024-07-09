@@ -3,7 +3,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Logo Excel" width="80">
 </div>
 
-<img src="/assets/Tela.png">
+<img src="/assets/Tela.jpg">
 
 ##  Desafio de Análise de Dados
 
